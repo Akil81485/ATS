@@ -3,11 +3,9 @@
 A **Streamlit-based intelligent web application** that analyzes **job descriptions** against **resumes** to identify skill gaps, calculate match scores, and provide personalized learning resources to help users improve their job readiness.
 
 ---
+## 📸 Application Screenshot
 
-## 🌐 Live Demo
-
-**https://atsbyakilank.streamlit.app/**
-
+![Job Skill Gap Analyzer](assets/Screenshot_2026-06-30_20_38_19.png)
 ---
 
 ## 🚀 Features
@@ -45,6 +43,12 @@ ATS/
 ```
 
 ---
+
+## 🌐 Live Demo
+
+**https://atsbyakilank.streamlit.app/**
+
+---or---
 
 ## ⚙️ Installation & Setup
 
