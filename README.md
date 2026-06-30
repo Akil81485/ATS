@@ -3,6 +3,7 @@
 A Streamlit-based intelligent web application that analyzes **job descriptions vs resumes** to identify skill gaps, calculate match scores, and provide personalized learning resources to help users improve job readiness.
 
 ---
+## live Demo - https://atsbyakilank.streamlit.app/
 
 ## 🚀 Live Features
 
